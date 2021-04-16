@@ -17,4 +17,7 @@ py main.py
 
 ## Need help?
 
-A YouTube video is in the works!
+Watch the YouTube video below!
+(Click the image below)
+
+[<img src="https://img.youtube.com/vi/yTyvuDiAAeo/maxresdefault.jpg" width="100%">](https://youtu.be/yTyvuDiAAeo)
