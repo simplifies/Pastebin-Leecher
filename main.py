@@ -10,8 +10,9 @@ def startLeecher():
     # Scrapes pastebin using google for the given word
     results = search("site:pastebin.com " + input1, num_results=int(amountOfResults), lang="en")
     # Saving output to file
-    print("\nSaving to file 'results.txt'")
+    print("Saving to file 'results.txt'")
     with open("results.txt", 'w+') as f:
+        f.writelines("Search Term: " + input1 + "\n")
         f.writelines("% s\n" % data for data in results)
         f.close()
         print("Done!")
