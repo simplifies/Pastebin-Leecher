@@ -1,5 +1,5 @@
 # Pastebin-Leecher
-A free and open-source pastebin leecher that utlizes google's search results.
+A free and open-source pastebin leecher that utilizes google's search results.
 
 ## Usage
 
